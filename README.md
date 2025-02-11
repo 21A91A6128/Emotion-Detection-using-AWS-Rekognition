@@ -18,7 +18,7 @@ This web application uses **AWS Rekognition** to detect faces and emotions in im
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/emotion-detection-aws-rekognition.git
+   git clone https://github.com/21A91A6128/emotion-detection-aws-rekognition.git
    ```
 
 2. **Set Up Virtual Environment**:
